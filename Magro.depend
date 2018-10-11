@@ -1,0 +1,3467 @@
+# depslib dependency file v1.0
+1513028571 source:c:\users\co97684\desktop\logiciels\c++\base_allegro\main.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\alplatf.h
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\alandroidcfg.h
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\alunix.h
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\keycodes.h
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1508004076 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\alcompat.h
+
+1508004078 c:\users\co97684\desktop\logiciels\c++\codeblocks\allegro\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1513028571 source:c:\users\co97684\desktop\logiciels\c++\base_allegro\src\main.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\alplatf.h
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\alandroidcfg.h
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\alunix.h
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\keycodes.h
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\alcompat.h
+
+1508003994 c:\users\co97684\desktop\logiciels\c++\base_allegro\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1515351736 source:j:\logiciels\c++\base_allegro\src\main.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\alplatf.h
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\alandroidcfg.h
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\alunix.h
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\keycodes.h
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\alcompat.h
+
+1508007594 j:\logiciels\c++\base_allegro\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1520369782 source:e:\logiciels\c++\base_allegro_5.2.3\src\main.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\alplatf.h
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\alandroidcfg.h
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\alunix.h
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\color.h
+	"allegro5/base.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\config.h
+	"allegro5/file.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\error.h
+	"allegro5/base.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\keycodes.h
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\alcompat.h
+
+1508003994 e:\logiciels\c++\base_allegro_5.2.3\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1520371140 source:e:\logiciels\c++\base_allegro_5.2.4.1\src\main.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\alplatf.h
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\alandroidcfg.h
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\alunix.h
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\color.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\config.h
+	"allegro5/file.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\error.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\keycodes.h
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\alcompat.h
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1520619358 source:e:\logiciels\c++\base_allegro_5.2.4.1 - copie\src\main.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\alplatf.h
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\alandroidcfg.h
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\alunix.h
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\color.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\config.h
+	"allegro5/file.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\error.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\keycodes.h
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\alcompat.h
+
+1519783174 e:\logiciels\c++\base_allegro_5.2.4.1 - copie\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1536503362 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\src\main.cpp
+	<iostream>
+	"init.h"
+	"magro.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alplatf.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alandroidcfg.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alunix.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\keycodes.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\alcompat.h
+
+1536502913 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\src\magro.h
+	<memory>
+	<allegro5/allegro.h>
+
+1536502329 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\src\magro.cpp
+	"magro.h"
+	<allegro5/allegro.h>
+	<iostream>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_video.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_video.h
+	"allegro5/allegro5.h"
+	"allegro5/allegro_audio.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro5.h
+	"allegro.h"
+
+1536504151 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\magro.cpp
+	"magro.h"
+	<allegro5/allegro.h>
+	<iostream>
+
+1536504952 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\magro.h
+	<memory>
+	<allegro5/allegro.h>
+	"../src/CommonAsset.h"
+
+1536503351 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\src\init.h
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_video.h>
+
+1536505046 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\src\commonasset.h
+
+1536504936 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\ftl_allegro\src\commonasset.cpp
+	"CommonAsset.h"
+
+1536604573 source:d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\magro.cpp
+	"magro.h"
+	"../src/init.h"
+	<iostream>
+
+1536605924 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\magro.h
+	<memory>
+	"../src/init.h"
+	"../src/CommonAsset.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alplatf.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alandroidcfg.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\alunix.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\keycodes.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\alcompat.h
+
+1536508646 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\src\commonasset.h
+
+1536508646 source:d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\src\commonasset.cpp
+	"CommonAsset.h"
+
+1536605863 source:d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\src\main.cpp
+	<iostream>
+	"magro.h"
+
+1536605798 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\src\init.h
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_video.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_video.h
+	"allegro5/allegro5.h"
+	"allegro5/allegro_audio.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro5.h
+	"allegro.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\ftl_allegro\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1537973690 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\easing.cpp
+	<Easing.h>
+
+1537974722 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\easing.h
+	<math.h>
+
+1538162802 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\scene.cpp
+	"Scene.h"
+
+1538292204 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\scene.h
+	"init.h"
+	<mg_init.h>
+
+1538304604 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\src\splashscreen.cpp
+	"SplashScreen.h"
+	<Magro.h>
+	<iostream>
+	"SceneMenu.h"
+
+1538305583 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\src\splashscreen.h
+	<Scene.h>
+	<Magro.h>
+	<iostream>
+
+1538300691 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\src\main.cpp
+	"SplashScreen.h"
+	<Magro.h>
+
+1538305793 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\magro.h
+	<Scene.h>
+	<Easing.h>
+	<Sprite.h>
+	<SpriteSheet.h>
+	<iostream>
+
+1538305453 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\magro.cpp
+	<Magro.h>
+	<Cmagro.h>
+	<memory>
+	<iostream>
+
+1537975570 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\src\init.h
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_video.h>
+	<allegro5/allegro_physfs.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_windows.h>
+	<allegro5/allegro_direct3d.h>
+	<allegro5/allegro_opengl.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_memfile.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alplatf.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alandroidcfg.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alunix.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\keycodes.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\alcompat.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_video.h
+	"allegro5/allegro5.h"
+	"allegro5/allegro_audio.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro5.h
+	"allegro.h"
+
+1537702937 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\mg.cpp
+	<mg.h>
+
+1537702937 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\mg.h
+
+1537702995 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\attribute.h
+	<allegro5/allegro.h>
+	<Scene.h>
+
+1537977288 source:d:\programmation\gamejam\game_jam_17_ftl\magro\include\easing.cpp
+	<Easing.h>
+
+1537978320 d:\programmation\gamejam\game_jam_17_ftl\magro\include\easing.h
+	<math.h>
+
+1538309394 source:d:\programmation\gamejam\game_jam_17_ftl\magro\include\magro.cpp
+	<Magro.h>
+	<Cmagro.h>
+	<memory>
+	<iostream>
+
+1538579509 d:\programmation\gamejam\game_jam_17_ftl\magro\include\magro.h
+	<Scene.h>
+	<Easing.h>
+	<Sprite.h>
+	<SpriteSheet.h>
+	<iostream>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alplatf.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alandroidcfg.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\alunix.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\keycodes.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\alcompat.h
+
+1537706538 d:\programmation\gamejam\game_jam_17_ftl\magro\include\mg.h
+
+1538295806 d:\programmation\gamejam\game_jam_17_ftl\magro\include\scene.h
+	"init.h"
+	<mg_init.h>
+
+1537706538 source:d:\programmation\gamejam\game_jam_17_ftl\magro\include\mg.cpp
+	<mg.h>
+
+1538166404 source:d:\programmation\gamejam\game_jam_17_ftl\magro\include\scene.cpp
+	"Scene.h"
+
+1538304292 source:d:\programmation\gamejam\game_jam_17_ftl\magro\src\main.cpp
+	"SplashScreen.h"
+	<Magro.h>
+
+1538493057 d:\programmation\gamejam\game_jam_17_ftl\magro\src\splashscreen.h
+	<Scene.h>
+	<Magro.h>
+	<iostream>
+
+1538581516 source:d:\programmation\gamejam\game_jam_17_ftl\magro\src\splashscreen.cpp
+	"SplashScreen.h"
+	<Magro.h>
+	<iostream>
+	"SceneMenu.h"
+
+1537979168 d:\programmation\gamejam\game_jam_17_ftl\magro\src\init.h
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_video.h>
+	<allegro5/allegro_physfs.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_windows.h>
+	<allegro5/allegro_direct3d.h>
+	<allegro5/allegro_opengl.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_memfile.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_video.h
+	"allegro5/allegro5.h"
+	"allegro5/allegro_audio.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro5.h
+	"allegro.h"
+
+1537887218 source:d:\programmation\gamejam\game_jam_17_ftl\magro\include\engine.cpp
+	"Engine.h"
+
+1537887218 d:\programmation\gamejam\game_jam_17_ftl\magro\include\engine.h
+
+1538580385 source:d:\programmation\gamejam\game_jam_17_ftl\magro\include\cmagro.cpp
+	"Cmagro.h"
+	<memory>
+
+1538578785 d:\programmation\gamejam\game_jam_17_ftl\magro\include\cmagro.h
+	<Scene.h>
+	<SceneManager.h>
+	<memory>
+	<iostream>
+
+1538308906 d:\programmation\gamejam\game_jam_17_ftl\magro\include\scenemanager.h
+	<Scene.h>
+	<Easing.h>
+	<iostream>
+
+1538581289 source:d:\programmation\gamejam\game_jam_17_ftl\magro\include\scenemanager.cpp
+	"SceneManager.h"
+	<Cmagro.h>
+	<Magro.h>
+
+1537976050 d:\programmation\gamejam\game_jam_17_ftl\magro\include\test.h
+
+1537976050 source:d:\programmation\gamejam\game_jam_17_ftl\magro\include\test.cpp
+	"test.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_physfs.h
+	"allegro5/allegro.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_windows.h
+	<windows.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_direct3d.h
+	<d3d9.h>
+	<d3dx9.h>
+	"allegro5/platform/alplatf.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_opengl.h
+	<windows.h>
+	<OpenGLES/ES1/gl.h>
+	<OpenGLES/ES1/glext.h>
+	<OpenGLES/ES2/gl.h>
+	<OpenGLES/ES2/glext.h>
+	<OpenGLES/ES3/gl.h>
+	<OpenGLES/ES3/glext.h>
+	<OpenGL/OpenGL.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GL/gl.h>
+	<EGL/egl.h>
+	<EGL/eglext.h>
+	"allegro5/bitmap.h"
+	"allegro5/display.h"
+	"allegro5/shader.h"
+	"allegro5/opengl/gl_ext.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\gl_ext.h
+	"allegro5/opengl/GLext/gl_ext_defs.h"
+	"allegro5/opengl/GLext/wgl_ext_defs.h"
+	"allegro5/opengl/GLext/glx_ext_defs.h"
+	"allegro5/opengl/GLext/gl_ext_api.h"
+	"allegro5/opengl/GLext/wgl_ext_api.h"
+	"allegro5/opengl/GLext/glx_ext_api.h"
+	"allegro5/opengl/GLext/gl_ext_alias.h"
+	"allegro5/opengl/GLext/gl_ext_api.h"
+	"allegro5/opengl/GLext/wgl_ext_alias.h"
+	"allegro5/opengl/GLext/wgl_ext_api.h"
+	"allegro5/opengl/GLext/glx_ext_alias.h"
+	"allegro5/opengl/GLext/glx_ext_api.h"
+	"allegro5/opengl/GLext/gl_ext_list.h"
+	"allegro5/opengl/GLext/glx_ext_list.h"
+	"allegro5/opengl/GLext/wgl_ext_list.h"
+	"allegro5/opengl/GLext/gl_ext_api.h"
+	"allegro5/opengl/GLext/wgl_ext_api.h"
+	"allegro5/opengl/GLext/glx_ext_api.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\gl_ext_defs.h
+	<stddef.h>
+	<stddef.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\wgl_ext_defs.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\glx_ext_defs.h
+	<GL/glx.h>
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\gl_ext_api.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\wgl_ext_api.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\glx_ext_api.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\gl_ext_alias.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\wgl_ext_alias.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\glx_ext_alias.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\gl_ext_list.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\glx_ext_list.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\wgl_ext_list.h
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_color.h
+	"allegro5/allegro.h"
+
+1519786774 d:\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_memfile.h
+	"allegro5/allegro.h"
+
+1538580377 d:\programmation\gamejam\game_jam_17_ftl\magro\include\mg_init.h
+
+1538305324 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\cmagro.cpp
+	"Cmagro.h"
+	<memory>
+
+1538305205 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\cmagro.h
+	<Scene.h>
+	<SceneManager.h>
+	<memory>
+	<iostream>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_physfs.h
+	"allegro5/allegro.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_windows.h
+	<windows.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_direct3d.h
+	<d3d9.h>
+	<d3dx9.h>
+	"allegro5/platform/alplatf.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_opengl.h
+	<windows.h>
+	<OpenGLES/ES1/gl.h>
+	<OpenGLES/ES1/glext.h>
+	<OpenGLES/ES2/gl.h>
+	<OpenGLES/ES2/glext.h>
+	<OpenGLES/ES3/gl.h>
+	<OpenGLES/ES3/glext.h>
+	<OpenGL/OpenGL.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GL/gl.h>
+	<EGL/egl.h>
+	<EGL/eglext.h>
+	"allegro5/bitmap.h"
+	"allegro5/display.h"
+	"allegro5/shader.h"
+	"allegro5/opengl/gl_ext.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\gl_ext.h
+	"allegro5/opengl/GLext/gl_ext_defs.h"
+	"allegro5/opengl/GLext/wgl_ext_defs.h"
+	"allegro5/opengl/GLext/glx_ext_defs.h"
+	"allegro5/opengl/GLext/gl_ext_api.h"
+	"allegro5/opengl/GLext/wgl_ext_api.h"
+	"allegro5/opengl/GLext/glx_ext_api.h"
+	"allegro5/opengl/GLext/gl_ext_alias.h"
+	"allegro5/opengl/GLext/gl_ext_api.h"
+	"allegro5/opengl/GLext/wgl_ext_alias.h"
+	"allegro5/opengl/GLext/wgl_ext_api.h"
+	"allegro5/opengl/GLext/glx_ext_alias.h"
+	"allegro5/opengl/GLext/glx_ext_api.h"
+	"allegro5/opengl/GLext/gl_ext_list.h"
+	"allegro5/opengl/GLext/glx_ext_list.h"
+	"allegro5/opengl/GLext/wgl_ext_list.h"
+	"allegro5/opengl/GLext/gl_ext_api.h"
+	"allegro5/opengl/GLext/wgl_ext_api.h"
+	"allegro5/opengl/GLext/glx_ext_api.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\gl_ext_defs.h
+	<stddef.h>
+	<stddef.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\wgl_ext_defs.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\glx_ext_defs.h
+	<GL/glx.h>
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\gl_ext_api.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\wgl_ext_api.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\glx_ext_api.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\gl_ext_alias.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\wgl_ext_alias.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\glx_ext_alias.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\gl_ext_list.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\glx_ext_list.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\opengl\glext\wgl_ext_list.h
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_color.h
+	"allegro5/allegro.h"
+
+1519786774 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\allegro5\allegro_memfile.h
+	"allegro5/allegro.h"
+
+1538141697 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\mg_init.h
+
+1538305305 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\scenemanager.h
+	<Scene.h>
+	<Easing.h>
+	<iostream>
+
+1538300441 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\scenemanager.cpp
+	"SceneManager.h"
+	<Cmagro.h>
+	<Magro.h>
+
+1538203269 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\spritesheet.h
+	<Scene.h>
+	<vector>
+	"SpriteAnimation.h"
+
+1538203169 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\spritesheet.cpp
+	"SpriteSheet.h"
+	<vector>
+
+1538305593 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\sprite.h
+	<Scene.h>
+
+1538305554 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\sprite.cpp
+	"Sprite.h"
+	<magro.h>
+
+1538204434 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\spriteanimation.h
+	<vector>
+
+1538203151 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\include\spriteanimation.cpp
+	"SpriteAnimation.h"
+
+1538291560 source:c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\src\scenemenu.cpp
+	"SceneMenu.h"
+	<Magro.h>
+	<iostream>
+	"SplashScreen.h"
+
+1538305615 c:\users\co97684\desktop\programmation\gamejam\game_jam_17_ftl\magro\src\scenemenu.h
+	<Scene.h>
+	<Magro.h>
+	<iostream>
+
+1538492580 d:\programmation\gamejam\game_jam_17_ftl\magro\include\sprite.h
+	<Scene.h>
+
+1538206870 d:\programmation\gamejam\game_jam_17_ftl\magro\include\spritesheet.h
+	<Scene.h>
+	<vector>
+	"SpriteAnimation.h"
+
+1538208034 d:\programmation\gamejam\game_jam_17_ftl\magro\include\spriteanimation.h
+	<vector>
+
+1538309394 source:d:\programmation\gamejam\game_jam_17_ftl\magro\include\sprite.cpp
+	"Sprite.h"
+	<magro.h>
+
+1538206752 source:d:\programmation\gamejam\game_jam_17_ftl\magro\include\spriteanimation.cpp
+	"SpriteAnimation.h"
+
+1538206770 source:d:\programmation\gamejam\game_jam_17_ftl\magro\include\spritesheet.cpp
+	"SpriteSheet.h"
+	<vector>
+
+1538581516 source:d:\programmation\gamejam\game_jam_17_ftl\magro\src\scenemenu.cpp
+	"SceneMenu.h"
+	<Magro.h>
+	<iostream>
+	"SplashScreen.h"
+
+1538309216 d:\programmation\gamejam\game_jam_17_ftl\magro\src\scenemenu.h
+	<Scene.h>
+	<Magro.h>
+	<iostream>
+
+1538579335 source:d:\programmation\gamejam\game_jam_17_ftl\magro\src\commonasset.cpp
+	"CommonAsset.h"
+	<iostream>
+
+1538579451 d:\programmation\gamejam\game_jam_17_ftl\magro\src\commonasset.h
+	<Sprite.h>
+
